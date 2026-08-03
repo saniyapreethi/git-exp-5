@@ -12,5 +12,7 @@
    git branch -M main
 4.Created a README.md file
 5.Pushed main
-   git push -u origin main
+   git add .
+   git commit -m "First commit"
+   git push  -u origin main
    
