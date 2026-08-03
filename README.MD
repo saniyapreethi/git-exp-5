@@ -6,7 +6,6 @@
    git config --global user.email "Saniyapreethi@gmail.com" 
    git status
    git remote -v
-   git remote get-url origin
    git branch
    git remote and origin  https://github.com/saniyapreethi/git-exp-5.git
    git branch -M main
