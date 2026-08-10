@@ -12,6 +12,6 @@
 4.Created a README.md file
 5.Pushed main
    git add .
-   git commit -m "First commit"
+   git commi t -m "First commit"
    git push  -u origin main
    
